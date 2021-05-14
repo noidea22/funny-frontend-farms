@@ -55,10 +55,10 @@ const Coming: React.FC = () => {
         </DetailPlaceholder>
         <DetailPlaceholder>
           <div style={{ flex: 1 }}>
-            <img src="/images/farms/gold.png" alt="GOLD Token" width="15" height="15" />{' '}
+            <img src="/images/farms/bxn.png" alt="BXN Token" width="15" height="15" />{' '}
             {TranslateString(384, 'Your Stake')}:
           </div>
-          <Value>??? GOLD</Value>
+          <Value>??? BXN</Value>
         </DetailPlaceholder>
       </div>
       <Footer>

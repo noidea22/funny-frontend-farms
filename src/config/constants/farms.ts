@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     isTokenOnly: true,
-    lpSymbol: 'GOLD',
+    lpSymbol: 'BXN',
     lpAddresses: {
       97: '',
-      56: '0xb50539EAC8971052a96A2E466C6865b942835C56', // GOLD-BUSD LP
+      56: '0xb50539EAC8971052a96A2E466C6865b942835C56', // BXN-BUSD LP
     },
-    tokenSymbol: 'GOLD',
+    tokenSymbol: 'BXN',
     tokenAddresses: {
       97: '',
       56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
@@ -20,12 +20,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 1,
-    lpSymbol: 'GOLD-BUSD LP',
+    lpSymbol: 'BXN-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0xb50539EAC8971052a96A2E466C6865b942835C56', // GOLD-BUSD LP
+      56: '0xb50539EAC8971052a96A2E466C6865b942835C56', // BXN-BUSD LP
     },
-    tokenSymbol: 'GOLD',
+    tokenSymbol: 'BXN',
     tokenAddresses: {
       97: '',
       56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
@@ -35,12 +35,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 2,
-    lpSymbol: 'GOLD-BNB LP',
+    lpSymbol: 'BXN-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xa040492a50f0034894eb6df0a4d6c8ac33b92cfd', // GOLD-BNB LP
+      56: '0xa040492a50f0034894eb6df0a4d6c8ac33b92cfd', // BXN-BNB LP
     },
-    tokenSymbol: 'GOLD',
+    tokenSymbol: 'BXN',
     tokenAddresses: {
       97: '',
       56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
@@ -253,12 +253,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 16,
-    lpSymbol: 'GOLD-BNB',
+    lpSymbol: 'BXN-BNB',
     lpAddresses: {
       97: '',
-      56: '0x14510e89567cB9F61d1bFb9dD49Dc67bfc787d4f', // GOLD-BNB LP
+      56: '0x14510e89567cB9F61d1bFb9dD49Dc67bfc787d4f', // BXN-BNB LP
     },
-    tokenSymbol: 'GOLD',
+    tokenSymbol: 'BXN',
     tokenAddresses: {
       97: '',
       56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',
@@ -268,12 +268,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 17,
-    lpSymbol: 'GOLD-BUSD',
+    lpSymbol: 'BXN-BUSD',
     lpAddresses: {
       97: '',
-      56: '0x2A126fB038Fb3d721358Ef5D8eA730f7ed9FF93F', // GOLD-BUSD LP
+      56: '0x2A126fB038Fb3d721358Ef5D8eA730f7ed9FF93F', // BXN-BUSD LP
     },
-    tokenSymbol: 'GOLD',
+    tokenSymbol: 'BXN',
     tokenAddresses: {
       97: '',
       56: '0x8298fea38aa8627316ffd943fe001b69cac8174d',

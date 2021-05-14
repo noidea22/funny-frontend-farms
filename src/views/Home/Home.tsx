@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text, BaseLayout, Button, HelpIcon } from '@pancakeswap-libs/uikit'
+import { Heading, Text, BaseLayout, Button, HelpIcon, Card } from '@pancakeswap-libs/uikit'
 import useI18n from 'hooks/useI18n'
 import Page from 'components/layout/Page'
 import FarmStakingCard from 'views/Home/components/FarmStakingCard'
@@ -29,6 +29,9 @@ const Hero = styled.div`
     height: 165px;
     padding-top: 0;
   }
+`
+const CardImage = styled.img`
+  margin-bottom: 16px;
 `
 
 const Cards = styled(BaseLayout)`
@@ -75,7 +78,7 @@ const CTACards = styled(BaseLayout)`
   }
 `
 const Header = styled.div`
-  padding: 32px 0px;
+  padding: 16px 0px;
   background: ${({ theme }) => theme.colors.gradients.bubblegum};
 
   padding-left: 16px;
@@ -94,8 +97,8 @@ const Home: React.FC = () => {
   return (
     <>
       <Header>
-        <Heading as="h1" size="xl" color="gold" mb="24px">
-          Find The Treasure of Cortés by staking your assets.
+        <Heading as="h1" size="xl" color="black" mb="24px">
+        <CardImage src="/images/Banner.png" alt="Blaxion Logo" width={1000} height={500} />
         </Heading>
       </Header>
       <Page>
@@ -105,7 +108,6 @@ const Home: React.FC = () => {
             <TwitterCard />
             <CakeStats />
             <TotalValueLockedCard />
-            <WinCard />
           </Cards>
         </div>
       </Page>

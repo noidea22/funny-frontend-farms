@@ -4,12 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.aztecswap.com/',
-  },
-  {
-    label: 'Bourbon DeFi',
-    icon: 'HomeIcon',
-    href: 'https://www.bourbondefi.com/'
+    href: '/',
   },
   {
     label: 'Trade',
@@ -24,29 +19,20 @@ const config: MenuEntry[] = [
         label: 'Liquidity',
         href: 'https://exchangev2.aztecswap.com/#/pool',
       },
-      {
-        label: 'Exchange V1',
-        href: 'https://exchange.aztecswap.com/',
-      },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.aztecswap.com/farms',
+    href: '/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.aztecswap.com/pools',
+    href: '/pools',
   },
-   {
-     label: 'Moctezuma Sacrifice',
-     icon: 'TicketIcon',
-     href: '/lottery',
-   },
   {
-    label: 'Aztec Gold Token',
+    label: 'Blaxion Token',
     icon: 'InfoIcon',
     items: [
       {

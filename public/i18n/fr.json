@@ -81,7 +81,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total de GOLD brûlé depuis le lancement"
+        "text": "Total de BXN brûlé depuis le lancement"
       }
     },
     {
@@ -129,13 +129,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Déposez vos LP pour gagner des GOLD"
+        "text": "Déposez vos LP pour gagner des BXN"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Gold, get SYRUP."
+        "text": "Stake Bxn, get SYRUP."
       }
     },
     {
@@ -159,7 +159,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Chaque fois que vous déposez et retirez des GOLD, le contrat récoltera automatiquement les récompenses GOLD pour vous!"
+        "text": "Chaque fois que vous déposez et retirez des BXN, le contrat récoltera automatiquement les récompenses BXN pour vous!"
       }
     },
     {
@@ -225,7 +225,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Prix du Gold"
+        "text": "Prix du Bxn"
       }
     },
     {
@@ -249,7 +249,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 GOLD = 1 SYRUP"
+        "text": "1 BXN = 1 SYRUP"
       }
     },
     {
@@ -297,7 +297,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of GOLD block emissions each day (10 GOLD per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of BXN block emissions each day (10 BXN per block), Rewards are distributed each block."
       }
     },
     {
@@ -357,13 +357,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% GOLD"
+        "text": "%num% BXN"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend GOLD to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend BXN to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -441,19 +441,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% GOLD Available"
+        "text": "%num% BXN Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 GOLD"
+        "text": "Your amount must be a multiple of 10 BXN"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 GOLD"
+        "text": "1 Ticket = 10 BXN"
       }
     },
     {
@@ -501,7 +501,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your GOLD cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your BXN cannot be returned to you after buying tickets."
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "GOLD prizes to be claimed"
+        "text": "BXN prizes to be claimed"
       }
     },
     {
@@ -549,13 +549,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve GOLD"
+        "text": "Approve BXN"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of GOLD block emissions each day (10 GOLD per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of BXN block emissions each day (10 BXN per block), Rewards are distributed each block."
       }
     },
     {
@@ -573,19 +573,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using GOLD-BNB LP tokens, which means you need to stake equal amounts of GOLD and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using BXN-BNB LP tokens, which means you need to stake equal amounts of BXN and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get GOLD-BNB LP >"
+        "text": "Get BXN-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Koala DeFi Finance burns the GOLD."
+        "text": "The project gets the BNB, Koala DeFi Finance burns the BXN."
       }
     },
     {
@@ -651,7 +651,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Gold Stats"
+        "text": "Bxn Stats"
       }
     },
     {
@@ -669,7 +669,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "Nouveau GOLD\/bloc"
+        "text": "Nouveau BXN\/bloc"
       }
     },
     {
@@ -681,19 +681,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "GOLD à récolter"
+        "text": "BXN à récolter"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "GOLD en portefeuille"
+        "text": "BXN en portefeuille"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Récolter les GOLD"
+        "text": "Récolter les BXN"
       }
     },
     {
@@ -705,7 +705,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "GOLD à récolter"
+        "text": "BXN à récolter"
       }
     },
     {
@@ -771,7 +771,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Déposer des GOLD pour en gagner d'autres."
+        "text": "Déposer des BXN pour en gagner d'autres."
       }
     },
     {
@@ -789,7 +789,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "GOLD à bruler (USD)"
+        "text": "BXN à bruler (USD)"
       }
     },
     {
@@ -801,7 +801,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest GOLD rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest BXN rewards for you!"
       }
     },
     {
@@ -819,13 +819,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy GOLD and BNB tokens"
+        "text": "Buy BXN and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get GOLD-BNB LP tokens by adding GOLD and BNB liquidity"
+        "text": "Get BXN-BNB LP tokens by adding BXN and BNB liquidity"
       }
     },
     {
@@ -837,7 +837,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your GOLD-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your BXN-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -873,7 +873,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for GOLD, or keep for your collection!"
+        "text": "Trade in for BXN, or keep for your collection!"
       }
     },
     {
@@ -915,7 +915,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive GOLD, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive BXN, you will lose access to it forever!"
       }
     },
     {
@@ -945,7 +945,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a GOLD value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a BXN value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for GOLD"
+        "text": "Trade in for BXN"
       }
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn GOLD"
+        "text": "Stake LP tokens to earn BXN"
       }
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with GOLD"
+        "text": "Buy tickets with BXN"
       }
     },
     {
@@ -1239,7 +1239,7 @@
     {
       "data": {
         "stringId": 734,
-        "text": "du $GOLD maintenant!"
+        "text": "du $BXN maintenant!"
       }
     },
     {
@@ -1305,7 +1305,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Les frais de dépôt seront utilisés pour racheter des GOLD"
+        "text": "Les frais de dépôt seront utilisés pour racheter des BXN"
       }
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Déposer vos tokens pour gagner des GOLD"
+        "text": "Déposer vos tokens pour gagner des BXN"
       }
     },
     {
