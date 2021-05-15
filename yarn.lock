@@ -2049,7 +2049,7 @@
 
 "@pancakeswap-libs/uikit@BlaxionDeFi/Blaxion-uikit#releases_refresh":
   version "0.13.1"
-  resolved "https://codeload.github.com/BlaxionDeFi/Blaxion-uikit/tar.gz/094f73883f2afba61e3d1252296aa9bf15273c42"
+  resolved "https://codeload.github.com/BlaxionDeFi/Blaxion-uikit/tar.gz/77ed2801b8c809b70225e3a56bba033dd5c123ea"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

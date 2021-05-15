@@ -37,15 +37,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Dex Guru',
-        href: 'https://dex.guru/token/0x8298fea38aa8627316ffd943fe001b69cac8174d-bsc',
+        href: 'https://dex.guru/token/0x33e020D046Cd410d12021DFaf01B3a0e483FfA02-bsc',
       },
       {
         label: 'Contract',
-        href: 'https://bscscan.com/token/0x8298fea38aa8627316ffd943fe001b69cac8174d#readContract',
+        href: 'https://bscscan.com/token/0x33e020D046Cd410d12021DFaf01B3a0e483FfA02#readContract',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0xa040492a50f0034894eb6df0a4d6c8ac33b92cfd',
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x33e020D046Cd410d12021DFaf01B3a0e483FfA02',
       },
     ],
   },
