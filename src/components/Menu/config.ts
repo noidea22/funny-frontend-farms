@@ -13,11 +13,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchangev2.aztecswap.com/',
+        href: 'https://exchange.blaxion.app/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchangev2.aztecswap.com/#/pool',
+        href: 'https://exchange.blaxion.app/#/pool',
       },
     ],
   },
