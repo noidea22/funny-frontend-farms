@@ -70,12 +70,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ETH',
     lpAddresses: {
       97: '',
-      56: '0x74E4716E431f45807DCF19f284c7aA99F18a4fbc', // ETH-BNB LP
+      56: '0x70d8929d04b60af4fb9b58713ebcf18765ade422', // ETH-BNB LP
     },
     tokenSymbol: 'ETH',
     tokenAddresses: {
       97: '',
-      56: '0x2170ed0880ac9a755fd29b2688956bd959f933f8',
+      56: '0x2170Ed0880ac9A755fd29B2688956BD959F933F8',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -102,7 +102,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ADA',
     lpAddresses: {
       97: '',
-      56: '0xba51d1ab95756ca4eab8737ecd450cd8f05384cf', // ADA-BNB
+      56: '0x28415ff2C35b65B9E5c7de82126b4015ab9d031F', // ADA-BNB
     },
     tokenSymbol: 'ADA',
     tokenAddresses: {

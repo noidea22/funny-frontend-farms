@@ -90,7 +90,7 @@ export const useBushs = (): Pool[] => {
 // Prices
 
 export const usePriceBnbBusd = (): BigNumber => {
-  const pid = 6 // BUSD-BNB LP
+  const pid = 5 // BUSD-BNB LP
   const farm = useFarmFromPid(pid)
   return farm.tokenPriceVsQuote ? new BigNumber(farm.tokenPriceVsQuote) : ZERO
 }
@@ -106,7 +106,7 @@ export const usePriceCakeBusd = (): BigNumber => {
 }
 
 export const usePriceEthBusd = (): BigNumber => {
-  const pid = 5 // ETH-BNB LP
+  const pid = 4 // ETH-BNB LP
   const bnbPriceUSD = usePriceBnbBusd()
   const farm = useFarmFromPid(pid)
   return farm.tokenPriceVsQuote ? bnbPriceUSD.times(farm.tokenPriceVsQuote) : ZERO
