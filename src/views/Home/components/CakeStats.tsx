@@ -38,14 +38,14 @@ const CakeStats = () => {
   const totalSupply = useTotalSupply()
   const burnedBalance = useBurnedBalance(getCakeAddress())
   const farms = useFarms()
-  const bxnPrice = usePriceCakeBusd()
+  const BGLPrice = usePriceCakeBusd()
   const circSupply = totalSupply ? totalSupply.minus(burnedBalance) : new BigNumber(0)
   const cakeSupply = getBalanceNumber(circSupply)
-  const marketCap = bxnPrice.times(circSupply)
+  const marketCap = BGLPrice.times(circSupply)
 
-  let bxnPerBlock = 0
-  if (farms && farms[0] && farms[0].bxnPerBlock) {
-    bxnPerBlock = new BigNumber(farms[0].bxnPerBlock).div(new BigNumber(10).pow(18)).toNumber()
+  let BGLPerBlock = 0
+  if (farms && farms[0] && farms[0].BGLPerBlock) {
+    BGLPerBlock = new BigNumber(farms[0].BGLPerBlock).div(new BigNumber(10).pow(18)).toNumber()
   }
 
   return (
@@ -88,9 +88,9 @@ const CakeStats = () => {
           <CardValue fontSize="14px" value={getBalanceNumber(burnedBalance)} decimals={0} />
         </Row>
         <Row>
-          <Text fontSize="14px">New Bxn/block</Text>
+          <Text fontSize="14px">New BGL/block</Text>
           <Text bold fontSize="14px">
-            {bxnPerBlock}
+            {BGLPerBlock}
           </Text>
         </Row>
       </CardBody>

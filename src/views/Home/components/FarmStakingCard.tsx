@@ -60,11 +60,11 @@ const FarmedStakingCard = () => {
         </Heading>
         <CardImage src="/images/9.png" alt="Blaxion Logo" width={64} height={64} />
         <Block>
-          <Label>{TranslateString(544, 'BXN to Harvest')}:</Label>
+          <Label>{TranslateString(544, 'BGL to Harvest')}:</Label>
           <CakeHarvestBalance />
         </Block>
         <Block>
-          <Label>{TranslateString(546, 'BXN in Wallet')}:</Label>
+          <Label>{TranslateString(546, 'BGL in Wallet')}:</Label>
           <CakeWalletBalance />
         </Block>
         <Actions>
@@ -76,7 +76,7 @@ const FarmedStakingCard = () => {
               width="100%"
             >
               {pendingTx
-                ? TranslateString(548, 'Collecting BXN')
+                ? TranslateString(548, 'Collecting BGL')
                 : TranslateString(532, `Harvest all (${balancesWithValue.length})`)}
             </Button>
           ) : (

@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     isTokenOnly: true,
-    lpSymbol: 'BXN',
+    lpSymbol: 'BGL',
     lpAddresses: {
       97: '',
-      56: '0xB87F0EA454e198838B06EA04077f97590C27e15B', // BXN-BUSD LP
+      56: '0xB87F0EA454e198838B06EA04077f97590C27e15B', // BGL-BUSD LP
     },
-    tokenSymbol: 'BXN',
+    tokenSymbol: 'BGL',
     tokenAddresses: {
       97: '',
       56: '0xF1F216B1b59EadAa4b6985F0574fF21383830634',
@@ -20,12 +20,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 1,
-    lpSymbol: 'BXN-BUSD LP',
+    lpSymbol: 'BGL-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0xB87F0EA454e198838B06EA04077f97590C27e15B', // BXN-BUSD LP
+      56: '0xB87F0EA454e198838B06EA04077f97590C27e15B', // BGL-BUSD LP
     },
-    tokenSymbol: 'BXN',
+    tokenSymbol: 'BGL',
     tokenAddresses: {
       97: '',
       56: '0xF1F216B1b59EadAa4b6985F0574fF21383830634',
@@ -35,12 +35,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 2,
-    lpSymbol: 'BXN-BNB LP',
+    lpSymbol: 'BGL-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x806FED9B7249774c6fe40191b3aFe388b648346e', // BXN-BNB LP
+      56: '0x806FED9B7249774c6fe40191b3aFe388b648346e', // BGL-BNB LP
     },
-    tokenSymbol: 'BXN',
+    tokenSymbol: 'BGL',
     tokenAddresses: {
       97: '',
       56: '0xF1F216B1b59EadAa4b6985F0574fF21383830634',
