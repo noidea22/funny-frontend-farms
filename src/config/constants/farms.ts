@@ -208,7 +208,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 13,
-    lpSymbol: 'BLG-USDC',
+    lpSymbol: 'BLG-USDC LP',
     lpAddresses: {
       97: '',
       56: '0xCbdb89D56E7501Ba22732cF549E796aBB6346B02', // BGL-USDC V2 LP
