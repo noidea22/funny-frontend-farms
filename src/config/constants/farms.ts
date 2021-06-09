@@ -208,12 +208,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 13,
-    lpSymbol: 'TSB-BNB',
+    lpSymbol: 'BLG-USDC',
     lpAddresses: {
       97: '',
-      56: '0xCbdb89D56E7501Ba22732cF549E796aBB6346B02', // TSB-BNB V2 LP
+      56: '0xCbdb89D56E7501Ba22732cF549E796aBB6346B02', // BGL-USDC V2 LP
     },
-    tokenSymbol: 'TSB',
+    tokenSymbol: 'BGL',
     tokenAddresses: {
       97: '',
       56: '0xA37F71f092F891757d23Dd350f57C78E8469c026',
